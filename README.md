@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatKoalaGuy
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Next.Js and TypeScript
 - 💞️ I’m looking to collaborate where I can
 
 <!---
