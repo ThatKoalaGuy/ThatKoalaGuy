@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Domen</h1>
 <h3 align="center">A guy who is studying software development</h3>
 
-- 🌱 I’m currently learning **OS development**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **domen.koder@gmail.com**
 
