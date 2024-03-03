@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/74912929?v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Domen</h1>
 
 ###
