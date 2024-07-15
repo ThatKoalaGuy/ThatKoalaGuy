@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📌Slovenia<br><br>- 🔭 I’m a high school student<br>- 📚 I'm currently learning fullstack web-dev<br>- ⚡ In my free time I enjoy hanging out with friends</p>
+<p align="left">📌Slovenia🇸🇮<br><br>- 🔭 I’m a high school student<br>- 📚 I'm currently learning fullstack web-dev<br>- ⚡ In my free time I enjoy hanging out with friends</p>
 
 ###
 
