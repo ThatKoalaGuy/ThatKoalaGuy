@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📌Slovenia<br><br>- 🔭 I’m a high school student<br>- 📚 I'm currently learning fullstack web-dev<br>- ⚡ In my free time I enjoy hanging out with friends</p>
+<p align="left">📌Slovenia<br><br>- 🔭 I’m a high school student<br>- 📚 I'm currently learning C<br>- ⚡ In my free time I enjoy hanging out with friends</p>
 
 ###
 
@@ -30,6 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
