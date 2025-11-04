@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Linux kernel drivers<br>🌱 I’m currently learning C
+<br>I’m currently learning reverse engineering.
 
 
 ## 🌐 Socials:
