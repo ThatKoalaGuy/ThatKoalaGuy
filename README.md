@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domen.koder@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domen@domenkoder.com) 
 
 # 💻 Tech Stack:
 ## ⌨️ Programming Launguages:
